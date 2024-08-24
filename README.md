@@ -4,6 +4,15 @@
 
 Meu **primeiro** projeto/jogo finalizado, com auxílio do curso de lógica de programação na plataforma **Alura**, disponiblizado pelo **Geração Caldeira**.
 
+ 📑 Tarefas: 
+  
+  - [x] Soluções dos problemas do web site.
+  - [x] Site inteligente.
+  - [x] Sentido aos botões.
+  - [x] Otimizar código.
+
+***
+
 🚀 Linguagem de programação:
 
 ![image](https://github.com/byelziin/numero-secreto/assets/174073319/43a247ff-246a-4430-931a-ec5d6ca6d0e1)
