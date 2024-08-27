@@ -13,7 +13,7 @@ Meu **primeiro** projeto/jogo finalizado, com auxílio do curso de lógica de pr
 
 ***
 
-🚀 Linguagem de programação:
+🚀 Linguagem de usada programação:
 
 ![image](https://github.com/byelziin/numero-secreto/assets/174073319/43a247ff-246a-4430-931a-ec5d6ca6d0e1)
 
