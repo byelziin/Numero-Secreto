@@ -2,7 +2,7 @@
 
 🔖 Sobre:
 
-Meu **primeiro** projeto/jogo finalizado, com auxílio do curso de lógica de programação na plataforma **Alura**, disponiblizado pelo **Geração Caldeira**.
+Meu **primeiro** projeto/jogo finalizado, com auxílio do curso de  _**lógica de programação com JavaScript**_ na plataforma **Alura**, disponiblizado pelo **Geração Caldeira**.
 
  📑 Tarefas: 
   
